@@ -1,4 +1,4 @@
-package com.plcoding.echojournal.core.theme
+package com.tahhan.echojournal.core.theme
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.lightColorScheme
